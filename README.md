@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @tanayg2
-- 🌱 I’m currently building the first everything app store with PWA Labs
-- 👀 I’m interested in software engineering and data science projects for public good
+- 👷 I’m currently building the Open Web App Store on Store.app
 - 📫 How to reach me tgandhi.dev@gmail.com
 
 <!---
